@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\PizzaBuilder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0273E7DC-4F26-4E91-AFD8-61E7EC19361A}|PizzaBuilderDesignPattern.csproj|c:\\users\\julo\\desktop\\wsei\\s3\\wzorce projektowe\\implementacje wzorc\u00F3w\\pizzabuilder\\pizzabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0273E7DC-4F26-4E91-AFD8-61E7EC19361A}|PizzaBuilderDesignPattern.csproj|solutionrelative:pizzabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0273E7DC-4F26-4E91-AFD8-61E7EC19361A}|PizzaBuilderDesignPattern.csproj|c:\\users\\julo\\desktop\\wsei\\s3\\wzorce projektowe\\implementacje wzorc\u00F3w\\pizzabuilder\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0273E7DC-4F26-4E91-AFD8-61E7EC19361A}|PizzaBuilderDesignPattern.csproj|solutionrelative:pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0273E7DC-4F26-4E91-AFD8-61E7EC19361A}|PizzaBuilderDesignPattern.csproj|c:\\users\\julo\\desktop\\wsei\\s3\\wzorce projektowe\\implementacje wzorc\u00F3w\\pizzabuilder\\pizzadirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0273E7DC-4F26-4E91-AFD8-61E7EC19361A}|PizzaBuilderDesignPattern.csproj|solutionrelative:pizzadirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0273E7DC-4F26-4E91-AFD8-61E7EC19361A}|PizzaBuilderDesignPattern.csproj|c:\\users\\julo\\desktop\\wsei\\s3\\wzorce projektowe\\implementacje wzorc\u00F3w\\pizzabuilder\\pizzabuilderdesignpattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0273E7DC-4F26-4E91-AFD8-61E7EC19361A}|PizzaBuilderDesignPattern.csproj|solutionrelative:pizzabuilderdesignpattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0273E7DC-4F26-4E91-AFD8-61E7EC19361A}|PizzaBuilderDesignPattern.csproj|c:\\users\\julo\\desktop\\wsei\\s3\\wzorce projektowe\\implementacje wzorc\u00F3w\\pizzabuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0273E7DC-4F26-4E91-AFD8-61E7EC19361A}|PizzaBuilderDesignPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0273E7DC-4F26-4E91-AFD8-61E7EC19361A}|PizzaBuilderDesignPattern.csproj|c:\\users\\julo\\desktop\\wsei\\s3\\wzorce projektowe\\implementacje wzorc\u00F3w\\pizzabuilder\\ipizzabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0273E7DC-4F26-4E91-AFD8-61E7EC19361A}|PizzaBuilderDesignPattern.csproj|solutionrelative:ipizzabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\PizzaBuilder\\Pizza.cs",
+              "RelativeDocumentMoniker": "Pizza.cs",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\PizzaBuilder\\Pizza.cs",
+              "RelativeToolTip": "Pizza.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T18:24:42.217Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPizzaBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\PizzaBuilder\\IPizzaBuilder.cs",
+              "RelativeDocumentMoniker": "IPizzaBuilder.cs",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\PizzaBuilder\\IPizzaBuilder.cs",
+              "RelativeToolTip": "IPizzaBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T18:36:08.135Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PizzaDirector.cs",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\PizzaBuilder\\PizzaDirector.cs",
+              "RelativeDocumentMoniker": "PizzaDirector.cs",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\PizzaBuilder\\PizzaDirector.cs",
+              "RelativeToolTip": "PizzaDirector.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T18:45:33.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PizzaBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\PizzaBuilder\\PizzaBuilder.cs",
+              "RelativeDocumentMoniker": "PizzaBuilder.cs",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\PizzaBuilder\\PizzaBuilder.cs",
+              "RelativeToolTip": "PizzaBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T18:39:35.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\PizzaBuilder\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\PizzaBuilder\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T18:14:27.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PizzaBuilderDesignPattern.csproj",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\PizzaBuilder\\PizzaBuilderDesignPattern.csproj",
+              "RelativeDocumentMoniker": "PizzaBuilderDesignPattern.csproj",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\PizzaBuilder\\PizzaBuilderDesignPattern.csproj",
+              "RelativeToolTip": "PizzaBuilderDesignPattern.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T18:45:10.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

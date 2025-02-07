@@ -1,0 +1,14 @@
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\PizzaBuilder\bin\Debug\net9.0\PizzaBuilderDesignPattern.exe
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\PizzaBuilder\bin\Debug\net9.0\PizzaBuilderDesignPattern.deps.json
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\PizzaBuilder\bin\Debug\net9.0\PizzaBuilderDesignPattern.runtimeconfig.json
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\PizzaBuilder\bin\Debug\net9.0\PizzaBuilderDesignPattern.dll
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\PizzaBuilder\bin\Debug\net9.0\PizzaBuilderDesignPattern.pdb
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\PizzaBuilder\obj\Debug\net9.0\PizzaBuilderDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\PizzaBuilder\obj\Debug\net9.0\PizzaBuilderDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\PizzaBuilder\obj\Debug\net9.0\PizzaBuilderDesignPattern.AssemblyInfo.cs
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\PizzaBuilder\obj\Debug\net9.0\PizzaBuilderDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\PizzaBuilder\obj\Debug\net9.0\PizzaBuilderDesignPattern.dll
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\PizzaBuilder\obj\Debug\net9.0\refint\PizzaBuilderDesignPattern.dll
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\PizzaBuilder\obj\Debug\net9.0\PizzaBuilderDesignPattern.pdb
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\PizzaBuilder\obj\Debug\net9.0\PizzaBuilderDesignPattern.genruntimeconfig.cache
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\PizzaBuilder\obj\Debug\net9.0\ref\PizzaBuilderDesignPattern.dll
