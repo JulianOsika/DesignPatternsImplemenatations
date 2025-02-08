@@ -1,0 +1,14 @@
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\FactoryMethodImplementation\bin\Debug\net9.0\FactoryMethodImplementation.exe
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\FactoryMethodImplementation\bin\Debug\net9.0\FactoryMethodImplementation.deps.json
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\FactoryMethodImplementation\bin\Debug\net9.0\FactoryMethodImplementation.runtimeconfig.json
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\FactoryMethodImplementation\bin\Debug\net9.0\FactoryMethodImplementation.dll
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\FactoryMethodImplementation\bin\Debug\net9.0\FactoryMethodImplementation.pdb
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\FactoryMethodImplementation\obj\Debug\net9.0\FactoryMethodImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\FactoryMethodImplementation\obj\Debug\net9.0\FactoryMethodImplementation.AssemblyInfoInputs.cache
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\FactoryMethodImplementation\obj\Debug\net9.0\FactoryMethodImplementation.AssemblyInfo.cs
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\FactoryMethodImplementation\obj\Debug\net9.0\FactoryMethodImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\FactoryMethodImplementation\obj\Debug\net9.0\FactoryMethodImplementation.dll
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\FactoryMethodImplementation\obj\Debug\net9.0\refint\FactoryMethodImplementation.dll
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\FactoryMethodImplementation\obj\Debug\net9.0\FactoryMethodImplementation.pdb
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\FactoryMethodImplementation\obj\Debug\net9.0\FactoryMethodImplementation.genruntimeconfig.cache
+C:\Users\Julo\Desktop\WSEI\S3\Wzorce projektowe\Implementacje wzorców\FactoryMethodImplementation\obj\Debug\net9.0\ref\FactoryMethodImplementation.dll

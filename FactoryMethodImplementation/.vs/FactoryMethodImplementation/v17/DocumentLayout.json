@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\FactoryMethodImplementation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C90FDEFE-63BE-402B-9828-7C505B7D3AA3}|FactoryMethodImplementation.csproj|c:\\users\\julo\\desktop\\wsei\\s3\\wzorce projektowe\\implementacje wzorc\u00F3w\\factorymethodimplementation\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90FDEFE-63BE-402B-9828-7C505B7D3AA3}|FactoryMethodImplementation.csproj|solutionrelative:motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90FDEFE-63BE-402B-9828-7C505B7D3AA3}|FactoryMethodImplementation.csproj|c:\\users\\julo\\desktop\\wsei\\s3\\wzorce projektowe\\implementacje wzorc\u00F3w\\factorymethodimplementation\\truckfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90FDEFE-63BE-402B-9828-7C505B7D3AA3}|FactoryMethodImplementation.csproj|solutionrelative:truckfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90FDEFE-63BE-402B-9828-7C505B7D3AA3}|FactoryMethodImplementation.csproj|c:\\users\\julo\\desktop\\wsei\\s3\\wzorce projektowe\\implementacje wzorc\u00F3w\\factorymethodimplementation\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90FDEFE-63BE-402B-9828-7C505B7D3AA3}|FactoryMethodImplementation.csproj|solutionrelative:carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90FDEFE-63BE-402B-9828-7C505B7D3AA3}|FactoryMethodImplementation.csproj|c:\\users\\julo\\desktop\\wsei\\s3\\wzorce projektowe\\implementacje wzorc\u00F3w\\factorymethodimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90FDEFE-63BE-402B-9828-7C505B7D3AA3}|FactoryMethodImplementation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90FDEFE-63BE-402B-9828-7C505B7D3AA3}|FactoryMethodImplementation.csproj|c:\\users\\julo\\desktop\\wsei\\s3\\wzorce projektowe\\implementacje wzorc\u00F3w\\factorymethodimplementation\\motorcyclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90FDEFE-63BE-402B-9828-7C505B7D3AA3}|FactoryMethodImplementation.csproj|solutionrelative:motorcyclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90FDEFE-63BE-402B-9828-7C505B7D3AA3}|FactoryMethodImplementation.csproj|c:\\users\\julo\\desktop\\wsei\\s3\\wzorce projektowe\\implementacje wzorc\u00F3w\\factorymethodimplementation\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90FDEFE-63BE-402B-9828-7C505B7D3AA3}|FactoryMethodImplementation.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90FDEFE-63BE-402B-9828-7C505B7D3AA3}|FactoryMethodImplementation.csproj|c:\\users\\julo\\desktop\\wsei\\s3\\wzorce projektowe\\implementacje wzorc\u00F3w\\factorymethodimplementation\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90FDEFE-63BE-402B-9828-7C505B7D3AA3}|FactoryMethodImplementation.csproj|solutionrelative:truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90FDEFE-63BE-402B-9828-7C505B7D3AA3}|FactoryMethodImplementation.csproj|c:\\users\\julo\\desktop\\wsei\\s3\\wzorce projektowe\\implementacje wzorc\u00F3w\\factorymethodimplementation\\vehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90FDEFE-63BE-402B-9828-7C505B7D3AA3}|FactoryMethodImplementation.csproj|solutionrelative:vehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90FDEFE-63BE-402B-9828-7C505B7D3AA3}|FactoryMethodImplementation.csproj|c:\\users\\julo\\desktop\\wsei\\s3\\wzorce projektowe\\implementacje wzorc\u00F3w\\factorymethodimplementation\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90FDEFE-63BE-402B-9828-7C505B7D3AA3}|FactoryMethodImplementation.csproj|solutionrelative:ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\FactoryMethodImplementation\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "Motorcycle.cs",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\FactoryMethodImplementation\\Motorcycle.cs",
+              "RelativeToolTip": "Motorcycle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:16:15.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\FactoryMethodImplementation\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\FactoryMethodImplementation\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:53:54.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\FactoryMethodImplementation\\CarFactory.cs",
+              "RelativeDocumentMoniker": "CarFactory.cs",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\FactoryMethodImplementation\\CarFactory.cs",
+              "RelativeToolTip": "CarFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:53:22.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\FactoryMethodImplementation\\Truck.cs",
+              "RelativeDocumentMoniker": "Truck.cs",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\FactoryMethodImplementation\\Truck.cs",
+              "RelativeToolTip": "Truck.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:44:44.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TruckFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\FactoryMethodImplementation\\TruckFactory.cs",
+              "RelativeDocumentMoniker": "TruckFactory.cs",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\FactoryMethodImplementation\\TruckFactory.cs",
+              "RelativeToolTip": "TruckFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:41:18.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\FactoryMethodImplementation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\FactoryMethodImplementation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:35:14.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MotorcycleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\FactoryMethodImplementation\\MotorcycleFactory.cs",
+              "RelativeDocumentMoniker": "MotorcycleFactory.cs",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\FactoryMethodImplementation\\MotorcycleFactory.cs",
+              "RelativeToolTip": "MotorcycleFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T15:06:07.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VehicleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\FactoryMethodImplementation\\VehicleFactory.cs",
+              "RelativeDocumentMoniker": "VehicleFactory.cs",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\FactoryMethodImplementation\\VehicleFactory.cs",
+              "RelativeToolTip": "VehicleFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:37:01.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\FactoryMethodImplementation\\IVehicle.cs",
+              "RelativeDocumentMoniker": "IVehicle.cs",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S3\\Wzorce projektowe\\Implementacje wzorc\u00F3w\\FactoryMethodImplementation\\IVehicle.cs",
+              "RelativeToolTip": "IVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:36:11.631Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
